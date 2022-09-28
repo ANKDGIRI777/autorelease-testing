@@ -1,0 +1,8 @@
+{
+  "name": "autorelease-testing",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/ANKDGIRI777/autorelease-testing.git",
+  "author": "Aniket D. Giri <aniket.g@safe.security>",
+  "license": "MIT"
+}
